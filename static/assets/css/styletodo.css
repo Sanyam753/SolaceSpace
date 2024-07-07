@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(24, 195, 189);
+    background: url("https://lh3.googleusercontent.com/drive-viewer/AKGpihZt4-j-XcMCbhOofKKTRWxzb-c9qTnkXNyZfngIBIxuOughMW6_sxzNUqyBGbB3rTFgWBEl4n-zY3fAll_vojRIY8o_VDOFy3E=s1600-rw-v1");
+
+    color: white;
+    font-weight: 50px;
+}
+.mb-3{
+    background-color: transparent;
+    /* height: 420px; */
+}
+.form-control{
+    background-color: transparent;
+    border: 5px solid rgb(193, 193, 193);
+    /* height: 400px; */
+}
+table{
+    background-color: rgb(48, 87, 87);
+    border-radius: 30px;
+}
+thead{
+    background-color: aqua;
+
+}
+tbody{
+    background-color: aqua;
+}
